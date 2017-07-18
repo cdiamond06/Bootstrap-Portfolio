@@ -20,10 +20,11 @@ h1{
 }
 h3{
   font-size: 21px
+  color: white;
 }
 
 
-.navbar-default .navbar-brand {
+/*.navbar-default .navbar-brand {
     color: white;
     font-weight: 700;
     background-color: #4aaaa5;
@@ -33,7 +34,7 @@ h3{
 }
 .navbar-default{
   background-color: white;
-}
+}*/
 
 
 #cat {
@@ -92,7 +93,7 @@ footer {
 .thumbnail .caption {
   position:absolute;
   text-align: center;
-  padding: 9px;
+  padding: 0px;
   color: #333;
   width:97%;
   height:30%;
@@ -119,8 +120,13 @@ footer {
 
 }
 
+.topic{
+  padding-bottom: 1%;
+  color: white;
+}
 
-.navbar-default .navbar-nav>li>a{
+
+/*.navbar-default .navbar-nav>li>a{
     border-left: 1px solid #efefef;
       line-height: 18px;
       color: #999;
@@ -128,7 +134,7 @@ footer {
 
 .navbar-brand {
     height: 57px;
-  }
+  }*/
 
 
 :hov
